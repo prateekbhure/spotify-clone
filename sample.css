@@ -1,0 +1,229 @@
+.spoti_img {
+    background-color: black;
+}
+
+#temp {
+    height: 150px;
+    width: 450px;
+}
+
+.Premium {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    height: 20px;
+    width: auto;
+    margin-left: 650px;
+    position: absolute;
+    top: 75px;
+    transition: 0.2s;
+}
+
+.Support {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    height: 20px;
+    width: auto;
+    margin-left: 800px;
+    position: absolute;
+    top: 75px;
+    transition: 0.2s;
+
+}
+
+.Download {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    height: 20px;
+    width: auto;
+    margin-left: 950px;
+    position: absolute;
+    top: 75px;
+    transition: 0.2s;
+}
+
+.Download:hover {
+    color: green;
+
+}
+
+
+.Premium:hover {
+    /*background-color: #3e8e41;*/
+    color: green;
+
+}
+
+.Support:hover {
+    color: green;
+
+}
+
+.vl {
+    /*color: white;
+    height: 40px;
+    width: auto;
+    margin-left: 1075px;
+    position: absolute;
+    top: 75px;*/
+    border-left: 2px solid white;
+    height: 25px;
+    position: absolute;
+    top: 76px;
+    left: 83%;
+}
+
+.signup {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    height: 20px;
+    width: auto;
+    margin-left: 1095px;
+    position: absolute;
+    top: 75px;
+    transition: 0.2s;
+
+}
+
+.signin {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    height: 20px;
+    width: auto;
+    margin-left: 1200px;
+    position: absolute;
+    top: 75px;
+    transition: 0.2s;
+
+
+}
+
+.signup:hover {
+    color: green;
+
+}
+
+.signin:hover {
+    color: green;
+
+}
+
+.main {
+    color: white;
+    background-color: #a1248b;
+}
+
+p {
+    margin-right: 900px;
+    font-size: 35px;
+}
+
+.bton {
+    background-color: black;
+    color: white;
+    border-radius: 24px;
+    font-size: 17px;
+    padding: 14px 40px;
+    position: relative;
+    bottom: 16px;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.bton:hover {
+    transform: scale(1.2);
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bton1 {
+    background-color: #a1248b;
+    color: white;
+    border-radius: 24px;
+    font-size: 17px;
+    padding: 14px 40px;
+    border-color: white;
+    position: relative;
+    width: auto;
+    bottom: 16px;
+    transition: 0.2s;
+
+}
+
+.bton1:hover {
+    transform: scale(1.2);
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.para {
+    position: relative;
+    bottom: 35px;
+    font-size: 12px;
+}
+
+.n {
+    color: white;
+    margin-left: 40px;
+}
+
+.middle {
+    margin: 20px auto;
+    background-color: white;
+}
+
+.middle img {
+    width: 200px;
+    transition: 0.4s;
+    border-radius: 300px;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.middle img:hover {
+    transform: scale(1.3);
+
+}
+
+ul {
+    text-align: center;
+    width: 90%;
+    margin: 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+ul li {
+    display: inline-block;
+    width: 20%;
+}
+
+ul li p {
+    font-size: 20px;
+    color: black;
+    width: 100%;
+}
+
+h2 {
+    text-shadow: 2px 2px 4px #000000;
+    margin-left: 650px;
+    font-size: 40px;
+    padding: 20px;
+    color: black;
+}
+
+.foot{
+    background-color: black;
+}
+.wwe{
+    height: 50px;
+    width: 120px;
+}
+h3{
+    margin-left: 200px;
+    color: white;
+}
+
